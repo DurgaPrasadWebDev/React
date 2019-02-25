@@ -1,0 +1,20 @@
+.Navlink
+{
+    background-color: orange;
+    padding:7px;
+}
+
+.Navlink a:link,a:visited,a:active
+{
+    
+    text-decoration: none;
+    color: blueviolet;
+    padding: 6px;
+    text-transform: uppercase;
+    
+}
+.Navlink a:hover{
+    text-decoration: underline overline;
+    padding: 7px;
+    color:red;
+}
